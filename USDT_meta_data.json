@@ -1,0 +1,7 @@
+{
+  "name": "USDT (KSW.TEST)",
+  "symbol": "USDT",
+  "description": "FOR USDT (KSW.TEST)",
+  "image": "https://raw.githubusercontent.com/kyoungbinkim/solana-js-example/main/sol-dev-course/metadata/test-2.png",
+  "attributes": [{}]
+}
